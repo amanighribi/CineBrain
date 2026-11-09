@@ -1,0 +1,6 @@
+chromadb
+sentence-transformers
+groq
+streamlit
+python-dotenv
+pydantic>=2
